@@ -21,8 +21,7 @@ and my repository page here:
 
 Here is a picture of my deployed page:
 
-![image](![image](https://github.com/tuffythejeep/alex-bloggy-blog/assets/167649421/c6c7351d-2549-4054-80eb-3f419dd295cc)
-)
+![image](https://github.com/tuffythejeep/alex-bloggy-blog/assets/167649421/9bf239d6-a13a-4dd1-baf6-51085806d5be)
 
 
 ## Installation
