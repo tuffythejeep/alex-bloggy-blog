@@ -1,10 +1,27 @@
+#h3-header {
+  padding-top: 15px;
+  margin-right: 20px;
+  float: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 25px;
+  font-weight: normal;
+}
 
+#li-2 {
+  display: inline-block;
+  margin-left: 25px;
+}
 
-
-
-
-
-
+.footer {
+  padding: 20px;
+  clear: both;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: left;
+  font-size: 30px;
+  background-color: #e9e6f3e7;
+  color: #0b4e75;
+}
 
 /* When using `max-width` as the breakpoint, you must go from widest to narrowest to avoid conflict */
 /* Tablets - header changes color */
@@ -16,12 +33,12 @@
 /* Large smartphones - navbar changes color */
 @media screen and (max-width: 768px) {
   nav {
-    background-color: #BB8588;
+    background-color: #bb8588;
   }
 }
 /* Small smartphones - image placeholders change color */
 @media screen and (max-width: 576px) {
   .sample-img {
-    background-color: #8AC4FF;
+    background-color: #8ac4ff;
   }
 }
