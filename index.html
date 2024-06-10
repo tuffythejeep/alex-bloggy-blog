@@ -25,44 +25,29 @@
         <p>LIGHT MODE</p>
       </div>
     </div>
-    <div class="row">
-      <h2>Adding an Event Listener</h2>
-    </div>
-    <div class="row">
-      <div>
-        <p>We use the .addEventListener() method to set up an element to listen for a specific event</p>
-        <p id= "light-mode">When we switch the slider to "Light Mode", the background is changed to a light color.</p>
-        <p id = "dark-mode">When we switch the slider to "Dark Mode", the background is changed to a dark color.</p>
-         <li>
-             <a
-          href="blog.html"
-        >
-        </li>
-      </div>
+  </div>
 </header>
 
 <body>
     <header id="header">
-      <h1>Alex Garcia's Blog</h1>
-      <nav id="h2-header">
-    <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li>
-             <a
-          href="blog.html"
-        >
-        </li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-    </ul>
+      <form id="blog-form">
+        <label for="username">Username:
+        </label>
+        <input type="text" id="username" name="username"><br><br>
+        
+        <label for="blog-title">Blog Title:</label>
+        <input type="text" id="blog-title" name="blog-title"><br><br>
+        
+        <label for="blog-content">Blog Content:</label>
+        <textarea id="blog-content" name="blog-content"></textarea><br><br>
+        
+        <input type="submit" value="Create Blog">
+      </form>
+	
+	  <div id="blog-preview">
+    </div>
     
-     <footer class="footer">
+  <footer class="footer">
       <h1>Contact Me</h1>
       <nav id="h3-header">
         <ul>
@@ -96,7 +81,7 @@
           </li>
         </ul>
       </nav>
-    </footer>
+  </footer>
     <script src="./assets/js/script.js"></script>
 </body>
 </html>

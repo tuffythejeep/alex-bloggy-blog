@@ -7,7 +7,7 @@
 /* Dark Mode */
 .dark {
   background-color:#243447;
-  height: 100vh;
+  height: vh;
   color: #bebebe
 }
 
@@ -23,7 +23,7 @@
 .light {
   background-color: #f0ead6;
   color: black;
-  height: 100vh;
+  height: vh;
 }
 
 .light li a {
@@ -104,9 +104,6 @@ input:checked + .slider:before {
 .col {
   margin: 20px;
 }
-
-
-
 
 #h3-header {
   padding-top: 15px;
