@@ -4,7 +4,6 @@
   background-color: rgba(76, 175, 80, 0.15)
 }
 
-/* Dark Mode */
 .dark {
   background-color:#243447;
   height: vh;
@@ -19,7 +18,6 @@
   background-color: #111;
 }
 
-/* Light Mode */
 .light {
   background-color: #f0ead6;
   color: black;
@@ -34,7 +32,6 @@
   background-color: rgb(29, 128, 210);
 }
 
-/* Styling the Switch button */
 .switch {
   position: relative;
   display: inline-block;
@@ -42,14 +39,12 @@
   height: 34px;
 }
 
-/* Hide default HTML checkbox */
 .switch input {
   opacity: 0;
   width: 0;
   height: 0;
 }
 
-/* The slider */
 .slider {
   position: absolute;
   cursor: pointer;
@@ -88,7 +83,6 @@ input:checked + .slider:before {
   transform: translateX(26px);
 }
 
-/* Rounded sliders */
 .slider.round {
   border-radius: 34px;
 }
