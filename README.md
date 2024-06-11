@@ -53,7 +53,7 @@ I referenced code (HTML and CSS) from the UT provided lessons, however, I wrote 
 
 I commented and committed to my repo heavily.
 
-I was not able to deploy without succesfully. :(
+I was not able to deploy succesfully. :(
 
 ## License
 
