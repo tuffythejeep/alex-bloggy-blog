@@ -1,3 +1,11 @@
+const backButton = document.querySelector("#back-btn");
+
+backButton.addEventListener("click", function (event) {
+  if (backButton) {
+    window.location.href = "index.html";
+  }
+});
+
 // Access toggle switch HTML element
 const themeSwitcher = document.querySelector("#theme-switcher");
 const container = document.querySelector(".container");
@@ -22,7 +30,7 @@ themeSwitcher.addEventListener("click", function () {
 const form = document.getElementById("blog-form");
 const previewContainer = document.getElementById("blog-preview");
 
-form.addEventListener("submit", (e) => {
+form.addEventListener("Create-Blog", (e) => {
   e.preventDefault();
   const username = document.getElementById("username").value;
   const blogTitle = document.getElementById("blog-title").value;

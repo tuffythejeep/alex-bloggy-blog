@@ -1,15 +1,16 @@
 # alex-bloggy-blog
-A personal blog that showcases my thoughts and experiences.
+I wanted this to be a personal blog that showcased my thoughts and experiences,unfortunately,this was not my best effort. I ran out of time and could not get things to connect.
+I am turning in what I can, and will learn from this opportunity.
 
 ## Description
 
-This repository contains my solution for the Module 4 Challenge - Personal Blog.
+This repository was supposed to contain my solution for the Module 4 Challenge - Personal Blog.
 
-In order for work to show what I can do, I used HTML, CSS, JavaScript, and Web API knowledge to:
+I tried to show what I can do, by using HTML, CSS, JavaScript, and Web API knowledge to:
 
 - Create a two-page website where users will input and view blog posts.
-- It includes building a content form, dynamically rendering blog posts, and implementing a light/dark mode toggle.
-- This project helped me: gain practical JavaScript experience, explore the Document Object Model's power, and set the stage for more advanced tasks.
+- It was supposed to include building a content form, dynamically rendering blog posts, and implementing a light/dark mode toggle.
+- This project was supposed to help me: gain practical JavaScript experience, explore the Document Object Model's power, and set the stage for more advanced tasks.
 
 
 You can find my deployed page here:
@@ -30,18 +31,17 @@ N/A
 
 ## Usage
 
-Each section on this page was laid out based on Semantic HTML styling and tags, as I deleted non-semantic HTML elements. I also ensured my css file contained all appropriate styling elements so my version of the webpage mirrored the UT Challenge source file, when rendered on a browser.
-
 I used Chrome console (inspect) to ensure my edits, adjustments, changes, and tweaks rendered correctly.
 
 ## Credits
 
-Credit to Jasper Garcia, my son, who helps me troubleshoot when I am stuck - however, I wrote all my own JavaScript. I was able to ask him questions to clarify, and he promted and challenged me to take breaks and allow my mind to process the solutions which were brewing.
+Credit to Jasper Garcia, my son, who helps me troubleshoot when I am stuck. I was able to ask him questions to clarify, and he promted and challenged me to take breaks and allow my mind to process the solutions which were brewing.
 
-Thanks to Travis Haynie for assistance when I was stuck and his encouragement!
+Thanks to Krystal Stanton for assistance and references when I was stuck and her encouragement!
 
-When stuck, I referenced the following sites:
+When stuck, I also referenced the following sites:
 
+- The supplied code throughout the lessons.
 - <https://developer.mozilla.org/en-US/>
 - <https://stackoverflow.com/>
 - <https://google.com/>
@@ -50,11 +50,9 @@ When stuck, I referenced the following sites:
 
 I referenced code (HTML and CSS) from the UT provided lessons, however, I wrote all my own changes, edits, tweaks, and versions of my webpage, html, and css.
 
-No outside sources of text, html, or css were copied into my work.
-
 I commented and committed to my repo heavily.
 
-I was able to deploy without issue, once I copied all htlm and css files properly.
+I was not able to deploy without succesfully. :(
 
 ## License
 
